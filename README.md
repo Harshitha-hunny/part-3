@@ -1,4 +1,5 @@
 # part-3
+**requiremnts.txt is not uploaded as txt file**
 Churn Prediction Model &amp; Model Card
 
 **churn_model.ipynb**
